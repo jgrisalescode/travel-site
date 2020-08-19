@@ -12,6 +12,9 @@
 node_modules/
 .tmp/
 
+# Custom form me
+package_versions.json
+
 # OS or Editor folders
 .DS_Store
 Thumbs.db
